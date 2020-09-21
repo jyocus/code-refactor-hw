@@ -177,7 +177,12 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.main-section-details{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -190,7 +195,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 footer {
     padding: 30px;
